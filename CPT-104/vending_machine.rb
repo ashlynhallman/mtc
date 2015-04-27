@@ -8,7 +8,7 @@
 #
 # This program implements the Vending Machine Context and
 # "Make Change" algorithm that returns the minimal number
-# of coins.
+# of coins. This is a demonstration for the class.
 #
 ####################################################################
 
