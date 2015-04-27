@@ -1,5 +1,17 @@
 #!/usr/bin/ruby
 
+####################################################################
+#
+# CPT-104 A-2Y
+# Professor:  McLeod
+# Student: Ashlyn Hallman
+#
+# This program implements the Vending Machine Context and
+# "Make Change" algorithm that returns the minimal number
+# of coins.
+#
+####################################################################
+
 class VendingMachine
 
   attr_reader :game_over
